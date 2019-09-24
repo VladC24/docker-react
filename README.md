@@ -1,6 +1,6 @@
 ## Description
 
-This project is an exercise I've done, so I can understand Continuous Integration and deployment of an app (React) with AWS.
+This project is an exercise I've done, so I can understand better Continuous Integration and deployment of an app (React) with AWS.
 
 ## Available Scripts
 
